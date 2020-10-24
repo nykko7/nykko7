@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Nicolás Pérez B.</h1>
-<h3 align="center">A Developer finding better ways to do things ✨</h3>
+<h3 align="center">I'm a Software Developer💻 finding better ways to do things ✨</h3>
 
 <p align="center"> 
   <img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
