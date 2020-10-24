@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Nicolás Pérez B.</h1>
 <h3 align="center">I'm a Software Developer learning better ways to do things 💻</h3>
-<hr width=70%>
-<hr width=50%>
+<hr align="center" width=70%>
+<hr align="center" width=50%>
 <h3 align="center">Web</h4>
 <p align="center"> 
   <img src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  
